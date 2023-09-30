@@ -1,4 +1,4 @@
-[Profile Pic](/assets/Chess_ndt60.png)
+/assets/Chess_ndt60.png
 
 ### Education
 **Boston University**  
