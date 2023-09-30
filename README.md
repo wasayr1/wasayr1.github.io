@@ -1,7 +1,7 @@
 # Aspiring Software Engineer
 
 ### Education
-**Boston University**
+**Boston University**  
 B.A., Computer Science
 
 ### Projects
