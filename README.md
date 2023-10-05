@@ -3,7 +3,7 @@
 <html>
     
 <head>
-    <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
+    <link href="/assets/css/brands.css" rel="stylesheet">
 </head>
 
 
