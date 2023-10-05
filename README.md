@@ -10,7 +10,7 @@
 <img src="/assets/images/Profile_Picture.jpg" alt="Profile_Picture" width="200" length="200" border-style:none />
 
 <body>
-    <i class="fa-brands fa-linkedin"></i>
+    <i class="fas-brands fas-linkedin"></i>
 </body>
 
 </html>
