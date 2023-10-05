@@ -1,22 +1,17 @@
 **I'm a third-year student at Boston University studying Computer Science seeking Software Engineering internship roles for Summer 2024.**
-<!DOCTYPE>
+
 <html>
     
 <head>
-    <link rel="stylesheet" href= 
-    "https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
 </head>
 
-<style>
-    .android { 
-        background: #a4c639; 
-        color: white; 
-    } 
-</style>
 
 <img src="/assets/images/Profile_Picture.jpg" alt="Profile_Picture" width="200" length="200" />
 
-<i class="material-icons">android</i>
+<body>
+    <i class="fa-brands fa-linkedin"></i>
+</body>
 
 </html>
 
