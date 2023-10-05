@@ -1,4 +1,4 @@
-![Profile pic](/assets/images/Profile_Picture.png)
+<img src="/assets/images/Profile_Pic.png" alt="Profile_Pic"/>
 
 ### Education
 **Boston University**  
