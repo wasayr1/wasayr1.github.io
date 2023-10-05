@@ -1,4 +1,4 @@
-![Profile pic](/assets/images/Profile Picture.png)
+![Profile pic](/assets/images/Profile_Picture.png)
 
 ### Education
 **Boston University**  
