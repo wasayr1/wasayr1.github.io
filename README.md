@@ -1,4 +1,4 @@
-<img src="/assets/images/Profile_Picture.jpg" alt="Profile_Picture" width=30% length=30% />
+<img src="/assets/images/Profile_Picture.jpg" alt="Profile_Picture" width="400" length="300" />
 
 ### Education
 **Boston University**  
