@@ -21,5 +21,5 @@ B.A., Computer Science
 
 ### Projects
 
-Test project
+Chromium Extension
 
