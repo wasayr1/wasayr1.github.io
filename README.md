@@ -1,4 +1,4 @@
-**I'm a third-year student at Boston University studying Computer Science seeking Software Engineering internship roles for Summer 2024.**
+**I'm a third-year student at Boston University studying Computer Science seeking a Software Engineering internship role for Summer 2024.**
 
 <html>
     
