@@ -21,5 +21,6 @@ B.A., Computer Science
 
 ### Projects
 
-Currency Exchange Chromium Extension
+Currency Conversion Chromium Extension
+
 Python Chess
