@@ -1,4 +1,4 @@
-**I'm a third-year student at Boston University studying Computer Science seeking a Software Engineering internship role for Summer 2024.**
+**I'm a junior undergraduate student at Boston University studying Computer Science.**
 
 <html>
     
@@ -21,6 +21,5 @@ B.A., Computer Science
 
 ### Projects
 
-Currency Conversion Chromium Extension
+Chromium Extension
 
-Python Chess
