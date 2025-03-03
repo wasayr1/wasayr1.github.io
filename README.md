@@ -1,4 +1,4 @@
-**I'm a junior undergraduate student at Boston University studying Computer Science.**
+**I am fourth-year student at Boston University studying Computer Science.**
 
 <html>
     
@@ -21,5 +21,7 @@ B.A., Computer Science
 
 ### Projects
 
-Chromium Extension
+CrypToFiat - A Chromium extension that converts any USD values displayed on a page into their equivalent user-chosen cryptocurrency values (BTC, XMR, ETH, SOL).
+
+https://github.com/wasayr1/CrypToFiat 
 
